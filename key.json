@@ -1,0 +1,17 @@
+[
+  {
+    "key": "Klucz1",
+    "time": "2024-03-15",
+    "ban": false
+  },
+  {
+    "key": "Klucz2",
+    "time": "2024-04-20",
+    "ban": false
+  },
+  {
+    "key": "Klucz3",
+    "time": "2024-05-10",
+    "ban": true
+  }
+]
