@@ -13,5 +13,10 @@
     "key": "Klucz3",
     "time": "2024-05-10",
     "ban": true
+  },
+  {
+    "key": "Klucz4", 
+    "time": "2024-01-15", 
+    "ban": "false"
   }
 ]
