@@ -2,16 +2,19 @@
   {
     "key": "AB3R-7K9Y-2F6L",
     "time": "2040-01-01",
+    "expirationTime": "23:59",
     "expired": false
   },
   {
     "key": "Klucz2",
     "time": "2022-04-20",
+    "expirationTime": "15:00",
     "expired": false
   },
   {
     "key": "Klucz3",
     "time": "2022-05-10",
+    "expirationTime": "12:00",
     "expired": true
   }
 ]
