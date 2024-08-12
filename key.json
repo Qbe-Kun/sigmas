@@ -2,16 +2,16 @@
   {
     "key": "AB3R-7K9Y-2F6L",
     "time": "2040-01-01",
-    "ban": false
+    "expired": false
   },
   {
     "key": "Klucz2",
     "time": "2022-04-20",
-    "ban": false
+    "expired": false
   },
   {
     "key": "Klucz3",
     "time": "2022-05-10",
-    "ban": true
+    "expired": true
   }
 ]
