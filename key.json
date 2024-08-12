@@ -9,7 +9,7 @@
     "key": "Klucz2",
     "time": "2022-04-20",
     "expirationTime": "15:00",
-    "expired": false
+    "expired": true
   },
   {
     "key": "Klucz3",
